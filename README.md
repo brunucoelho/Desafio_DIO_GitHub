@@ -1,2 +1,2 @@
-# Desafio_DIO_GitHube
-Desafio de projeto Git/GitHube; Dio. 1º Repositório
+# Desafio_DIO_GitHub
+Desafio de projeto Git/GitHub; Dio. 1º Repositório
